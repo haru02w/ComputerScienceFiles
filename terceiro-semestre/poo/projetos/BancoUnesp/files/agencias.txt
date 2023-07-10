@@ -1,0 +1,5 @@
+Jardins#0#Ladeira de Ribeiro, 27, Araraquara-SP
+Centro#1#Sítio de da Conceição, 30, Bauru-SP
+Vera Cruz#2#Pátio de Santos, 2, Rio Claro-SP
+Europa#3#Praia de Silva, 10, São Paulo-SP
+Boa Vista#4#Parque Erick Carvalho, 60, São José do Rio Preto-SP
