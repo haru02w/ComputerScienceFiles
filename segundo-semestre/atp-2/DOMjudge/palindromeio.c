@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 {
 	int len, res = 0;
 	char string[MAX];
-	char sstr[MAX][MAX];
+	char sstr[MAX][MAX]; //why is this here?
 	scanf("%s", string);
 	len = strlen(string);
 	for (int i = 0; i < len; i++) {

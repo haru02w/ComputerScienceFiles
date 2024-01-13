@@ -1,0 +1,71 @@
+﻿ID,tentativas,tempo,curso,sexo,dificuldade
+EL1,72,619,Eletrônica,Fem,normal
+EL2,49,651,Eletrônica,Masc,dificil
+EL3,52,640,Eletrônica,Fem,normal
+EL4,119,1195,Eletrônica,Fem,dificil
+EL5,50,1175,Eletrônica,Masc,normal
+EL6,44,809,Eletrônica,Masc,normal
+EL7,299,2160,Eletrônica,Masc,normal
+EL8,244,1620,Eletrônica,Masc,normal
+EL9,49,566,Eletrônica,Fem,normal
+EL10,79,1524,Eletrônica,Fem,normal
+EL11,94,927,Eletrônica,Masc,dificil
+EL12,77,839,Eletrônica,Masc,normal
+EL13,110,1607,Eletrônica,Fem,dificil
+EL14,131,705,Eletrônica,Masc,facil
+EL15,50,952,Eletrônica,Masc,normal
+EL16,236,2439,Eletrônica,Fem,dificil
+EL17,184,1013,Eletrônica,Fem,dificil
+EL18,128,1119,Eletrônica,Masc,normal
+EL19,182,467,Eletrônica,Fem,dificil
+EL20,148,966,Eletrônica,Masc,facil
+EL21,120,1465,Eletrônica,Fem,dificil
+EL22,157,579,Eletrônica,Masc,dificil
+EL23,186,1092,Eletrônica,Masc,dificil
+EL24,83,908,Eletrônica,Masc,dificil
+EL25,113,698,Eletrônica,Masc,normal
+EL26,49,1098,Eletrônica,Masc,dificil
+EL27,169,919,Eletrônica,Fem,normal
+EL28,67,2005,Eletrônica,Masc,normal
+EL29,40,2252,Eletrônica,Masc,dificil
+EL30,148,953,Eletrônica,Masc,normal
+EL31,77,1646,Eletrônica,Masc,dificil
+EL32,107,565,Eletrônica,Fem,dificil
+EL33,136,813,Eletrônica,Fem,normal
+EL34,7,654,Eletrônica,Masc,dificil
+EL35,130,933,Eletrônica,Masc,facil
+DS1,50,525,Desenvolvimento de Sistemas,Fem,dificil
+DS2,111,980,Desenvolvimento de Sistemas,Fem,normal
+DS3,64,485,Desenvolvimento de Sistemas,Masc,dificil
+DS4,70,625,Desenvolvimento de Sistemas,Masc,facil
+DS5,89,776,Desenvolvimento de Sistemas,Fem,dificil
+DS6,140,1403,Desenvolvimento de Sistemas,Fem,dificil
+DS7,49,625,Desenvolvimento de Sistemas,Masc,dificil
+DS8,22,446,Desenvolvimento de Sistemas,Fem,dificil
+DS9,216,1344,Desenvolvimento de Sistemas,Masc,normal
+DS10,35,557,Desenvolvimento de Sistemas,Fem,dificil
+DS11,94,528,Desenvolvimento de Sistemas,Masc,normal
+DS12,64,409,Desenvolvimento de Sistemas,Masc,normal
+DS13,94,2887,Desenvolvimento de Sistemas,Masc,dificil
+DS14,36,1884,Desenvolvimento de Sistemas,Masc,normal
+DS15,91,1505,Desenvolvimento de Sistemas,Masc,dificil
+DS16,25,1031,Desenvolvimento de Sistemas,Fem,normal
+DS17,90,913,Desenvolvimento de Sistemas,Masc,normal
+DS18,55,1524,Desenvolvimento de Sistemas,Masc,normal
+DS19,164,808,Desenvolvimento de Sistemas,Masc,dificil
+DS20,235,2129,Desenvolvimento de Sistemas,Masc,normal
+DS21,98,1032,Desenvolvimento de Sistemas,Fem,dificil
+DS22,65,550,Desenvolvimento de Sistemas,Fem,facil
+DS23,168,1088,Desenvolvimento de Sistemas,Masc,normal
+DS24,41,1194,Desenvolvimento de Sistemas,Masc,dificil
+DS25,101,1258,Desenvolvimento de Sistemas,Fem,dificil
+DS26,84,1516,Desenvolvimento de Sistemas,Fem,normal
+DS27,87,759,Desenvolvimento de Sistemas,Fem,dificil
+DS28,51,720,Desenvolvimento de Sistemas,Masc,facil
+DS29,44,619,Desenvolvimento de Sistemas,Fem,dificil
+DS30,144,2139,Desenvolvimento de Sistemas,Masc,dificil
+DS31,223,1599,Desenvolvimento de Sistemas,Fem,dificil
+DS32,90,233,Desenvolvimento de Sistemas,Masc,dificil
+DS33,150,551,Desenvolvimento de Sistemas,Masc,normal
+DS34,31,1158,Desenvolvimento de Sistemas,Fem,facil
+DS35,109,1643,Desenvolvimento de Sistemas,Fem,normal
