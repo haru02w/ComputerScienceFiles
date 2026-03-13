@@ -1,0 +1,30 @@
+int num_1 = 2, num_2 = 3, num_3 = num_1 * num_2;
+char str = "Hello World!";
+
+void test();
+int sum(int a, int b) 
+{
+	return a + b;
+}
+
+int main()
+{
+	int test = sum(num_1, num_2);
+	num_1 = num_2 = num_3 * 2;
+
+	if(num_1 != num_2) {	
+		num_1 = num_2 + num_1;
+	}
+
+	for(int i = 0; i < num_1; i = i + 1) {	
+		num_3 = i;
+	}
+
+	while(num_1 == num_3) {	
+		num_2 = num_2 * num_3;
+	}
+	if (true)
+		if(false)
+			printf("dd");
+		else printf("ee");
+}
